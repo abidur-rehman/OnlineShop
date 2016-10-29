@@ -1,8 +1,7 @@
 # OnlineShop
 Spring Framework demo of Restful Web Services.
 
-### Steps to execute Unit Tests / deploy the OnlineShop web app.
-Prerequisites:-
+#### Prerequisites
 1. Eclipse Enterprice Edition IDE.
 2. JDK 8.
 3. Tomcat 8 (optional).
@@ -67,5 +66,7 @@ counts as 1 of your 5...",
  ],
  "total": 2.3
 }.
+
 3.3 <b>POST http://localhost:8080/OnlineShop/rest/shoppingCart/item/1</b>.
+
 3.4 <b>DELETE http://localhost:8080/OnlineShop/rest/shoppingCart/item/1</b>.
